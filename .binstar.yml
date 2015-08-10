@@ -1,0 +1,4 @@
+package: paste
+script:
+  - conda build .
+build_targets: conda
